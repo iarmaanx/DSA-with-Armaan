@@ -1,3 +1,6 @@
+<img src="Banner.png" alt="My DSA Notes Banner" width="1000" height="700" />
+
+
 # My DSA Notes 💻  
 
 This is my personal collection of DSA solutions and notes. It's where I store everything I need to quickly revisit and review concepts or problems.  
