@@ -1,0 +1,29 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+
+  int a = 12345678;
+  cout << "Hello this is variable a --> " << a << endl;
+
+  char b = 'u';
+  cout << "This is char type variable --> " << b << endl;
+
+  bool c = true;
+  cout << "This is bool --> " << c << endl;
+
+  float d = 1.232332;
+  cout << "This is float " << d << endl;
+
+  double e = 1.34335355345435534453534;
+  cout << "This is a double variable " << e << endl;
+
+  cout << sizeof(a) << endl;
+  cout << sizeof(b) << endl;  
+  cout << sizeof(c) << endl;
+  cout << sizeof(d) << endl;
+  cout << sizeof(e) << endl;
+
+
+  
+}
